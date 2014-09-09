@@ -24,9 +24,7 @@ public:
 
 int _tmain(int argc, _TCHAR* argv[])
 {	 
-	SM* ptr = new SM();
-	ptr->meg();
-  
+	int** ptr =new int* [10];
 	return 0;
 }
 
