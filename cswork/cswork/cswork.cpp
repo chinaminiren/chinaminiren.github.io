@@ -352,7 +352,7 @@ void BM(char* meg, int M, char* str, int N)
 
 //算法： 算法:二进制思想
 
-
+//后缀数组
 
 int memcmp(const void* s1,const void* s2, size_t n)
 {
