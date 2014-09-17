@@ -371,25 +371,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	string meg("ABCDABD");
 	string str("BBCABCDABABCDABCDABDE");
 	KMP(meg.data(), meg.length(), str.data(), str.length());
-	// 0 1±³°ü
-	//allBack();
-
-
-
-	//int ar[] = { 1, 2, 2};
-	//int n = sizeof(ar) / sizeof(int);
-	//allpai(ar, 0, n - 1);
-
-	//char * str = "5961564321234"; //432111234
-	//size_t n = strlen(str);
-	//huiWen(str, 0, n-1);
-
-	//getSum(ar, 0, sizeof(ar) / sizeof(int) - 1);
-	//dpGetSum(ar, 0, sizeof(ar) / sizeof(int) - 1);
-
-	//int ar[] = { 3, 5, 1, 8, -6, -6 ,5, 6, 7, 3 };
-	//int n = sizeof(ar) / sizeof(int);
-	//lis(ar, 0, n - 1);
 
 	int key;
 	std::cin >> key;
