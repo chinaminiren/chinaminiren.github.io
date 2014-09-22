@@ -357,11 +357,13 @@ void BM(char* meg, int M, char* str, int N)
 int memcmp(const void* s1,const void* s2, size_t n)
 {
 	//
+	return 0;
 }
 int strcmp(const char* s1, const char* s2)
 {
 	//两个字符串自左向右逐个字符相比（按ASCII值大小相比较），
 	//直到出现不同的字符或遇'\0'为止
+	return 0;
 }
 
 int _tmain(int argc, _TCHAR* argv[])
