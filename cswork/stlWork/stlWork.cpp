@@ -31,12 +31,13 @@ public:
 		cout<<a<<endl;
 	}
 };
+
 class CBase
 {
 public:
 	void Work(Base a)
 	{
-		
+		//
 	}
 };
 
