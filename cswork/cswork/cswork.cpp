@@ -114,7 +114,7 @@ void chengJi(int* ar, int i, int j)
 }
 
 /*
-动态规划算法
+动态规划算法  树型动态规划 状态压缩型动态规划
 连续子数组和
 */
 void getSum(int* ar, int i, int j)
@@ -299,7 +299,6 @@ void allBack()
 }
 
 
-
 //字符串 匹配相关
 void KMP(const char* meg, int M, const char* str, int N)
 {
@@ -329,6 +328,9 @@ void BM(char* meg, int M, char* str, int N)
 	//
 	//
 }
+
+//<< 算法集合 系列 >>
+//超级经典算法大集合......
 //分治算法
 
 //贪心算法
@@ -347,11 +349,20 @@ void BM(char* meg, int M, char* str, int N)
 //全排列 非递归算法?
 //分治算法
 //最长公共子串（Longest CommonSubstring）和最长公共子序列（LongestCommon Subsequence，LCS）   最长递增子序列(连续  or  非连续) 
-//计算字符串相似度
+//计算字符串相似度  判断两个字符串是否相似
 //C++ 二维数组
 
 //算法： 算法:二进制思想
 
+//数字 数学 
+//组合 写组合数：从{1，2，3，4，5}中选3个数，输出所有组合。然后扩展到从n个数中选m个数 
+//必须写非递归。
+
+//链表 
+//简单相关：http://www.csdn123.com/html/itweb/20131026/188782.htm
+//判断单链表是否存在环,判断两个链表是否相交问题
+
+//位运算
 
 
 int memcmp(const void* s1,const void* s2, size_t n)
