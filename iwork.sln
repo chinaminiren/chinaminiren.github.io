@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cswork", "cswork\cswork\cswork.vcxproj", "{61DBB08E-BDFF-4D17-BFC9-3F840F6BC836}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pattern", "pattern\pattern.vcxproj", "{CF11A840-7451-4F6D-850D-FED696DB4A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DBB08E-BDFF-4D17-BFC9-3F840F6BC836}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61DBB08E-BDFF-4D17-BFC9-3F840F6BC836}.Debug|Win32.Build.0 = Debug|Win32
+		{61DBB08E-BDFF-4D17-BFC9-3F840F6BC836}.Release|Win32.ActiveCfg = Release|Win32
+		{61DBB08E-BDFF-4D17-BFC9-3F840F6BC836}.Release|Win32.Build.0 = Release|Win32
+		{CF11A840-7451-4F6D-850D-FED696DB4A52}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF11A840-7451-4F6D-850D-FED696DB4A52}.Debug|Win32.Build.0 = Debug|Win32
+		{CF11A840-7451-4F6D-850D-FED696DB4A52}.Release|Win32.ActiveCfg = Release|Win32
+		{CF11A840-7451-4F6D-850D-FED696DB4A52}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
