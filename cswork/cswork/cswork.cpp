@@ -376,6 +376,7 @@ int strcmp(const char* s1, const char* s2)
 	//直到出现不同的字符或遇'\0'为止
 	return 0;
 }
+//
 
 int _tmain(int argc, _TCHAR* argv[])
 {
